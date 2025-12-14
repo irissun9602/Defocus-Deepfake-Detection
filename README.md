@@ -1,4 +1,4 @@
-[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fdeku.posstree.com?color=blue&label=hits&size=small)](https://myhits.vercel.app)
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Firissun9602%2FDefocus-Deepfake-Detection?color=green&label=hits&size=small&base_count=76)](https://myhits.vercel.app)
 # Defocus-Deepfake-Detection
 This repository provides the official implementation of **Defocus-based Deepfake Detection**.  
 We leverage physically-grounded **defocus blur cues** for discriminating between real and synthetic images.  
