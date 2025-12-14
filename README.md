@@ -3,6 +3,9 @@
 This repository provides the official implementation of **Defocus-based Deepfake Detection**.  
 We leverage physically-grounded **defocus blur cues** for discriminating between real and synthetic images.  
 
+[![Video Label](http://img.youtube.com/vi/KsXHiaclYkI/0.jpg)](https://youtu.be/KsXHiaclYkI)
+
+Click to Watch the Defocus Deepfake Detection Research Presentation.
 ## ⚙️ Requirements
 We recommend using **Python 3.8+** and creating a virtual environment.
 
